@@ -1,0 +1,10 @@
+.hero-img {
+    width: 45rem;
+    margin: 0 auto; /* Add this line to center the image horizontally */
+    display: flex; /* Add this line to enable flexbox */
+    justify-content: center; /* Add this line to center the image horizontally */
+    align-items: center; /* Add this line to center the image vertically */
+    margin-top: 2rem;
+    box-shadow: 10px 5px 20px 5px rgb(114, 102, 102);
+  }
+  
