@@ -1,13 +1,10 @@
-import Header from "./Components/Header";
-import "./App.css";
-import Hero from "./Components/Hero";
-
+import LandingPage from "./Components/LandingPage/LandingPage";
+import BrowseSubs from './Components/BrowseSubs/BrowseSubs'
 function App() {
   return (
-    <div>
-      <Header />
-      <Hero />
-    </div>
+    // <LandingPage/>
+    <BrowseSubs/>
+    
   );
 }
 

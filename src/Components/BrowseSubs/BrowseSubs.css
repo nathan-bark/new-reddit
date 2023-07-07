@@ -1,0 +1,11 @@
+.browseBG {
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    width: 80%;
+    margin: auto;
+    margin-top: 7rem;
+    padding: 2rem;
+    border-radius: 2rem;
+    box-shadow: 5px 5px 4px 3px rgb(178, 156, 156);
+}
